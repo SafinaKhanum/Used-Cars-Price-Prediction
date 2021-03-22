@@ -1,3 +1,7 @@
+Data source - https://www.kaggle.com/avikasliwal/used-cars-price-prediction
+
+The best model was decided based on mape on the test data. The model that gave the least mape on the test data was the best model.
+
 # Clearing the R environment
 rm(list = ls( ))
 
